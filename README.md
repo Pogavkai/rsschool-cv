@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Pogavkai.github.io/rsschool-cv/cv
