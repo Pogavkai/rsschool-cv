@@ -5,7 +5,6 @@
 * **E-mail:** danya.panikarenko@gmail.com
 * **GitHub:** Pogavkai
 * **Facebook:** Daryna Panikarenko
-* **Instagram:** frau_pompidou
 ## About Me
 Hardworking and ambitious young girl. Best candidate for employers who want to see results every day.
 Skilled in self-studying, planning, scheduling and meeting deadlines.
