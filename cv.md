@@ -5,10 +5,12 @@
 * **E-mail:** danya.panikarenko@gmail.com
 * **GitHub:** Pogavkai
 * **Facebook:** Daryna Panikarenko
+
 ## About Me
 Hardworking and ambitious young girl. Best candidate for employers who want to see results every day.
 Skilled in self-studying, planning, scheduling and meeting deadlines.
 I am looking for opportunities to develop my career.
+
 ## Skills
 * Figma(for web development)
 * Adobe Photoshop
@@ -16,6 +18,7 @@ I am looking for opportunities to develop my career.
 * C (basic knowledge), JavaScript (basic knowledge)
 * HTML, CSS
 * Git (remote service GitHub).
+
 ## Code Example
 ```
 #include<stdio.h>
@@ -51,13 +54,16 @@ for (int i=0; i<n; i++){
 return 0;
 }
 ```
+
 ## Work Experience
 * Call center "Inpost"
+
 ## Education
 * Adam Mickiewicz University, Poznan (currently)
     * Information Technologies
 * Post-secondary school "Medicus" (currently)
     * Assistant director of film and television production
+
 ## Languages
 * Ukrainian - C2(Native)
 * Russian - C1(Native)
